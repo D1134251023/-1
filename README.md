@@ -1,7 +1,5 @@
-import random
+# 🎲 抽籤程式
 
-names = ["曾士豪", "郭芳欣", "柯怡安"]
+這是一個簡單的抽籤網頁。
 
-winner = random.choice(names)
-
-print("🎉 抽到的人是：", winner)
+👉 [點這裡開始抽籤](https://e8689e0b-9735-4a3f-8b29-81d930ec6f15-00-12t1bew72c836.spock.replit.dev)
